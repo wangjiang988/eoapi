@@ -7,6 +7,7 @@
   1. 在mysql中建立eoapi_os数据  导入sql文件
   2. 修改配置文件，我的数据库账户密码是root/asdf
   3. nginx.conf 下是我的nginx配置文件
+  4. 登录账户、密码  admin/123456
 
   
 #注：整个eoapi目录需要读写权限
